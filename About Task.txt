@@ -1,0 +1,3 @@
+I created a Python code that performs the task required to be performed on the data through Jupyter Lab. 
+Through the code, I saved the data file in csv format, 
+then converted it to an excel sheet in order to make some minor adjustments to make it similar to the template by highlighting index of the first table and highlighting header of the second table.
